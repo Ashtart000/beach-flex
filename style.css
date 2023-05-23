@@ -28,6 +28,7 @@
     flex-direction: column;
     gap: 3vh;
     align-items: center;
+    padding: 1vh;
 }
 
 .title {
